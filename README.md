@@ -1,2 +1,4 @@
 # Cronometro.io
-Cronometro criado com HTML, CSS e JS.
+Cronometro criado com HTML, CSS, Bootstrap e JS.
+
+##Teste aqui
